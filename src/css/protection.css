@@ -1,0 +1,13 @@
+.protection {
+  font-size: 80px;
+  font-weight: 700;
+  font-style: italic;
+  font-family: Rubik, sans-serif;
+  color: #414c54;
+}
+
+p {
+  color: hsl(205, 13%, 29%);
+  font-size: 20px;
+  line-height: 1.2;
+}
